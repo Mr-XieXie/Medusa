@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    //BottomNavigationBar的icon与文字之间的间距
+    <dimen name="fixed_height_bottom_padding">4dp</dimen>
+</resources>
