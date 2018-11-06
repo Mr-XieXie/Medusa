@@ -7,10 +7,11 @@ import android.transition.Explode;
 
 import com.ashokvarma.bottomnavigation.BottomNavigationBar;
 import com.ashokvarma.bottomnavigation.BottomNavigationItem;
-import com.xyc.medusa.Fragment.FirstFragment;
-import com.xyc.medusa.Fragment.FourthFragment;
-import com.xyc.medusa.Fragment.SecondFragment;
-import com.xyc.medusa.Fragment.ThirdFragment;
+import com.xyc.medusa.fragment.FirstFragment;
+import com.xyc.medusa.fragment.FourthFragment;
+import com.xyc.medusa.fragment.SecondFragment;
+import com.xyc.medusa.fragment.ThirdFragment;
+
 
 public class MainActivity extends AppCompatActivity {
 

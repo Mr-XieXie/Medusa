@@ -1,4 +1,4 @@
-package com.xyc.medusa.Activity;
+package com.xyc.medusa.activity;
 
 import android.app.ActivityOptions;
 import android.content.Intent;

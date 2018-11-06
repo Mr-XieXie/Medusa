@@ -1,4 +1,4 @@
-package com.xyc.medusa.Fragment;
+package com.xyc.medusa.fragment;
 
 import android.os.Bundle;
 import android.support.annotation.NonNull;
